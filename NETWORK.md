@@ -1,10 +1,11 @@
-# Zion Vector Search
+# 🔗 Zion App Network
 
-Vector search engine.
+Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
-- Related: [ai-neural-search](https://github.com/Zion-support/ai-neural-search) · [zion-vector-db-comparator](https://github.com/Zion-support/zion-vector-db-comparator) · [zion-ai-knowledge-graph](https://github.com/Zion-support/zion-ai-knowledge-graph) · [ai-document-search](https://github.com/Zion-support/ai-document-search)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [ai-neural-search](https://github.com/Zion-support/ai-neural-search) · [ai-document-search](https://github.com/Zion-support/ai-document-search) · [rag-forge](https://github.com/Zion-support/rag-forge)
