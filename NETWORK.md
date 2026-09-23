@@ -1,6 +1,6 @@
 # 🔗 Zion App Network
 
-Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
 - 🏠 Homepage: https://ziontechgroup.com
 - 📂 Full catalog: https://ziontechgroup.com/apps/
